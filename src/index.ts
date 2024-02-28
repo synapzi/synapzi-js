@@ -1,1 +1,1 @@
-export const welcomeMessage = "Welcome to Synapzi!";
+export const poweredMessage = "Powered by Synapzi";

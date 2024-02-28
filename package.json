@@ -1,8 +1,9 @@
 {
   "name": "synapzi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Library used to connect your Node project to Synapzi functionality.",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "prepare": "husky install",
     "lint": "eslint . --ext .ts --fix",
