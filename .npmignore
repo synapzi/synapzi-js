@@ -1,0 +1,8 @@
+.husky/
+node_modules/
+src/
+tests/
+.eslintrc.js
+.lintstagedrc.json
+.prettierrc
+tsconfig.json
